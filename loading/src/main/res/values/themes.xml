@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="NiuLoadingDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@drawable/niu_black_bg</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>
